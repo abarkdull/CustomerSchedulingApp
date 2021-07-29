@@ -26,7 +26,7 @@ public class Appointment {
     private String title;
 
     /**
-     * Appointment description.
+     * Appointment description!.
      */
     private String description;
 
