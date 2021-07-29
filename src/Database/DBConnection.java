@@ -55,7 +55,7 @@ public class DBConnection {
     private static final String password = "53689350415";
 
     /**
-     * Initializes connection to database.
+     * Initializes connection to SQL database.
      * @return reference to connection
      */
     public static Connection startConnection() {
